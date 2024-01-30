@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["game", "epaint_dx11", "bevy_win32", "bevy_schedule_hook"]
